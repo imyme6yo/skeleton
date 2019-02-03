@@ -1,39 +1,50 @@
-@ionic:3.20.1/instargram
-@ionic:3.20.1/pinterest
-@ionic:3.20.1/tinder
+[   ] @instagram/dev-ionic3.20.1
+[   ] @pinterest/dev-ionic3.20.1
+[   ] @tinder/dev-ionic3.20.1
 
-@ionic:3.20.1/monetizer
-@ionic:3.20.1/admob
-@ionic:3.20.1/payment (alipay, paypal, iap)
-@ionic:3.20.1/iap
+[   ] @monetizer/dev-ionic3.20.1
+[ V ] @admob/dev-ionic3.20.1
+[   ] @payment/dev-ionic3.20.1 (alipay, paypal, iap)
+[   ] @iab/dev-ionic3.20.1
 
-@ionic:3.20.1/instargram
-@ionic:3.20.1/pinterest
-@ionic:3.20.1/tinder
+[   ] @instagram/dev-ionic4.0
+[   ] @pinterest/dev-ionic4.0
+[   ] @tinder/dev-ionic4.0
 
-@ionic:3.20.1/monetizer
-@ionic:3.20.1/admob
-@ionic:3.20.1/payment (alipay, paypal, iap)
-@ionic:3.20.1/iap
+[   ] @monetizer/dev-ionic4.0
+[   ] @admob/dev-ionic4.0
+[   ] @payment/dev-ionic4 (alipay, paypal, iap)
+[   ] @iap/dev-ionic4
 
-@tns:3.20.1/instargram
-@tns:3.20.1/pinterest
-@tns:3.20.1/tinder
+[   ] @instagram/dev-tns1.0
+[   ] @pinterest/dev-tns1.0
+[   ] @tinder/dev-tns1.0
 
-@tns:3.20.1/monetizer
-@tns:3.20.1/admob
-@tns:3.20.1/payment (alipay, paypal, iap)
-@tns:3.20.1/iap
+[   ] @monetizer/dev-tns1.0
+[   ] @admob/dev-tns1.0
+[   ] @payment/dev-tns1.0 (alipay, paypal, iap)
+[   ] @iap/dev-tns1.0
 
-@flutter:3.20.1/instargram
-@flutter:3.20.1/pinterest
-@flutter:3.20.1/tinder
+[   ] @instagram/dev-flutter1.0
+[   ] @pinterest/dev-flutter1.0
+[   ] @tinder/dev-flutteri1.0
 
-@flutter:3.20.1/monetizer
-@flutter:3.20.1/admob
-@flutter:3.20.1/payment (alipay, paypal, iap)
-@flutter:3.20.1/iap
+[   ] @monetizer/dev-flutter1.0
+[   ] @admob/dev-flutter1.0
+[   ] @payment/dev-flutter1.0 (alipay, paypal, iap)
+[   ] @iap/dev-flutter1.0
 
-@kivy1.10.1/
-@kivy1.10.1/
-@kivy1.10.1/
+[   ] @instagram/dev-weex1.0
+[   ] @pinterest/dev-weex1.0
+[   ] @tinder/dev-weexi1.0
+
+[   ] @monetizer/dev-weex1.0
+[   ] @admob/dev-weex1.0
+[   ] @payment/dev-weex1.0 (alipay, paypal, iap)
+[   ] @iap/dev-weex1.0
+
+[   ] @idle-engine/dev-kivy1.10.1
+[   ] @clicker-engine/dev-kivy1.10.1
+
+
+
