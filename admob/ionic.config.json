@@ -1,0 +1,8 @@
+{
+  "name": "admob",
+  "app_id": "com.morning.testapp.*",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
