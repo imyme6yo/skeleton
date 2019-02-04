@@ -1,7 +1,13 @@
+# AUTHOR : jon "imyme6yo@gmail.com"
+# TEST APP ID : com.alldaymorning.test.*
+# PRODUCTION APP ID : com.alldaymorning.app.APP_NAME
+
 [   ] @instagram/dev-ionic3.20.1
 [   ] @pinterest/dev-ionic3.20.1
 [   ] @tinder/dev-ionic3.20.1
 
+[   ] @firebase/dev-ionic3.20.1
+[   ] @push/dev-ionic3.20.1
 [   ] @monetizer/dev-ionic3.20.1
 [ V ] @admob/dev-ionic3.20.1
 [   ] @payment/dev-ionic3.20.1 (alipay, paypal, iap)
@@ -11,6 +17,8 @@
 [   ] @pinterest/dev-ionic4.0
 [   ] @tinder/dev-ionic4.0
 
+[   ] @firebase/dev-ionic4.0
+[   ] @push/dev-ionic4.0
 [   ] @monetizer/dev-ionic4.0
 [   ] @admob/dev-ionic4.0
 [   ] @payment/dev-ionic4 (alipay, paypal, iap)
@@ -20,6 +28,8 @@
 [   ] @pinterest/dev-tns1.0
 [   ] @tinder/dev-tns1.0
 
+[   ] @firebase/dev-tns1.0
+[   ] @push/dev-tns1.0
 [   ] @monetizer/dev-tns1.0
 [   ] @admob/dev-tns1.0
 [   ] @payment/dev-tns1.0 (alipay, paypal, iap)
@@ -29,11 +39,15 @@
 [   ] @pinterest/dev-flutter1.0
 [   ] @tinder/dev-flutteri1.0
 
+[   ] @firebase/dev-flutter1.0
+[   ] @push/dev-flutter1.0
 [   ] @monetizer/dev-flutter1.0
 [   ] @admob/dev-flutter1.0
 [   ] @payment/dev-flutter1.0 (alipay, paypal, iap)
 [   ] @iap/dev-flutter1.0
 
+[   ] @firebase/dev-weex1.0
+[   ] @push/dev-weex1.0
 [   ] @instagram/dev-weex1.0
 [   ] @pinterest/dev-weex1.0
 [   ] @tinder/dev-weexi1.0
