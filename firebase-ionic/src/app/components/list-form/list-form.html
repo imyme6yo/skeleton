@@ -12,7 +12,8 @@
       <ion-input type="text" [(ngModel)]="item.title" placeholder="The title is here"></ion-input>
     </ion-item>
     <ion-item>
-      <textarea [(ngModel)]="item.content" placeholder="The content is here"></textarea>
+      <ion-label stacked>Content</ion-label>
+      <ion-textarea block rows="6" [(ngModel)]="item.content" placeholder="The content is here"></ion-textarea>
     </ion-item>
   </ion-list>
 </ion-content>
