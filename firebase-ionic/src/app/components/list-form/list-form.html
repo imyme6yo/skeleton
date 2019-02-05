@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      List Form
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <ion-list>
+    <ion-item>
+      <ion-label stacked>Title</ion-label>
+      <ion-input type="text" [(ngModel)]="item.title" placeholder="The title is here"></ion-input>
+    </ion-item>
+    <ion-item>
+      <textarea [(ngModel)]="item.content" placeholder="The content is here"></textarea>
+    </ion-item>
+  </ion-list>
+</ion-content>
+<ion-footer>
+  <ion-toolbar>
+    <button ion-button block (tap)="confirm()">Confirm</button>
+  </ion-toolbar>
+</ion-footer>

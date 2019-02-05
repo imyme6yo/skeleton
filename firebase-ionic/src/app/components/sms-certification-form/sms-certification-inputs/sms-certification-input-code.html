@@ -1,0 +1,32 @@
+<ion-card>
+  <ion-card-header>
+    <ion-card-title>
+      Verify Phone
+    </ion-card-title>
+  </ion-card-header>
+
+  <ion-card-content>
+    <ion-input type="text" [(ngModel)]="code" placeholder="Enter code"></ion-input>
+  </ion-card-content>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col text-center>
+        <button ion-button block (tap)="prev()">
+          Prev
+        </button>
+      </ion-col>
+
+      <ion-col>
+        <button ion-button block (tap)="next()">
+          Next
+        </button>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col text-center>
+        <a>Resend Code</a>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-card>

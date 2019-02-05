@@ -1,0 +1,25 @@
+<ion-card>
+  
+    <ion-card-header>
+      <ion-card-title>
+        Email
+      </ion-card-title>
+    </ion-card-header>
+  
+    <ion-card-content>
+      <ion-label stacked>Email</ion-label>
+      <ion-input type="email" [(ngModel)]="this.authProvider.credential.email"></ion-input>
+    </ion-card-content>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          
+        </ion-col>
+        <ion-col>
+          <button ion-button block (tap)="next()">Next</button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+</ion-card>

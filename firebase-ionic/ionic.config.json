@@ -1,0 +1,8 @@
+{
+  "name": "firebase-ionic",
+  "app_id": "com.alldaymorning.test.firebase",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

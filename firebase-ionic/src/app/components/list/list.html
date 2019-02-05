@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-toolbar>
+    <button ion-button block (tap)="toggleOperation()">{{ operationStr }}</button>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding>
+  <ion-list>
+    <ion-card *ngFor="let item of list | async" (tap)="showDetail(item)">
+      <ion-card-header>
+        <ion-card-title>
+          {{ item.title }}
+        </ion-card-title>
+      </ion-card-header>
+    </ion-card>
+  </ion-list>
+</ion-content>
+<ion-footer>
+  <ion-toolbar>
+    <button ion-button block (tap)="showListForm()">
+      <ion-icon name="md-add"></ion-icon>
+    </button>
+  </ion-toolbar>
+</ion-footer>

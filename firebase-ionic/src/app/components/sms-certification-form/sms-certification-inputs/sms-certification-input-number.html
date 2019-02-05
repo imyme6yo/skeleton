@@ -1,0 +1,27 @@
+<ion-card>
+  <ion-card-header>
+    <ion-card-title>
+      Enter Phone Number
+    </ion-card-title>
+  </ion-card-header>
+
+  <ion-card-content>
+    <ion-input type="text" [(ngModel)]="phone" placeholder="Enter Phone Number"></ion-input>
+  </ion-card-content>
+  
+  <ion-grid>
+    <ion-row>
+      <div id="recaptcha-container"></div>
+    </ion-row>
+    <ion-row>
+      <ion-col text-center>
+      </ion-col>
+
+      <ion-col>
+        <button ion-button block (tap)="next()">
+          Next
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-card>

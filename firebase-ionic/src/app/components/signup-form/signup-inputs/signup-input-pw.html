@@ -1,0 +1,40 @@
+<ion-card>
+  
+    <ion-card-header>
+      <ion-card-title>
+        Password
+      </ion-card-title>
+    </ion-card-header>
+  
+    <ion-card-content>
+      <ion-grid>
+        <ion-row>
+          <ion-item>
+            <ion-label stacked>Password</ion-label>
+            <ion-input type="password" [(ngModel)]="this.authProvider.credential.pw"></ion-input>
+          </ion-item>
+        </ion-row>
+        <ion-row>
+          <ion-item>
+            <ion-label stacked>Re-password</ion-label>
+            <ion-input type="password" [(ngModel)]="pw" (change)="checkPw()"></ion-input>
+          </ion-item>
+        </ion-row>
+      </ion-grid>
+    </ion-card-content>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <button ion-button block (tap)="prev()">Prev</button>
+        </ion-col>
+        <ion-col>
+          <button ion-button block [disabled]="nextButtonDisabled" (tap)="next()">Next</button>
+        </ion-col>
+      </ion-row>
+      <ion-col text-center>
+        <a>Forgot Password?</a>
+      </ion-col>
+    </ion-grid>
+    
+  </ion-card>

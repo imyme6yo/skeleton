@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{ item.title }}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-item>
+    <ion-label stacked>Title</ion-label>
+    <ion-input type="text" [(ngModel)]="item.title"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label stacked>Title</ion-label>
+    <ion-textarea [(ngModel)]="item.content"></ion-textarea>
+  </ion-item>
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar>
+    <button ion-button block (tap)="showListForm()">Modify</button>
+    <button ion-button block (tap)="remove()">Remove</button>
+  </ion-toolbar>
+</ion-footer>
