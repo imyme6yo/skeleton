@@ -1,3 +1,4 @@
+<pre/>
 # AUTHOR : jon "imyme6yo@gmail.com"  
 # TEST APP ID : com.alldaymorning.test.*  
 # PRODUCTION APP ID : com.alldaymorning.app.APP_NAME  
@@ -59,6 +60,5 @@
   
 [   ] @idle-engine/dev-kivy1.10.1  
 [   ] @clicker-engine/dev-kivy1.10.1  
-  
-  
+</pre>
 
