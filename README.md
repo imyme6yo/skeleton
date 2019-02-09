@@ -8,6 +8,7 @@
 [   ] @instagram/dev-ionic3.20.1
 [   ] @pinterest/dev-ionic3.20.1
 [   ] @tinder/dev-ionic3.20.1
+[   ] @twitter/dev-ionic3.20.1
   
 [ V ] @firebase/dev-ionic3.20.1
 [   ] @notification/dev-ionic3.20.1
@@ -19,6 +20,7 @@
 [   ] @instagram/dev-ionic4.0
 [   ] @pinterest/dev-ionic4.0
 [   ] @tinder/dev-ionic4.0
+[   ] @twitter/dev-ionic4.0
   
 [   ] @firebase/dev-ionic4.0
 [   ] @notification/dev-ionic4.0
