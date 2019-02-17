@@ -8,9 +8,10 @@ create project
 # ionic start ${PROJECT_NAME}
 
 install npm packages for firebase
-# npm install --save firebase @angular/fire rxjs@6 rxjs-compat@6
+# npm install --save rxjs@6 rxjs-compat@6
 # npm uninstall --save typescript 
 # npm install --save typescript
+# npm install --save firebase @angular/fire
 
 install @angular/router ver 5.2.11
 # npm install @angular/router
