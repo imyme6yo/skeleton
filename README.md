@@ -14,6 +14,7 @@
 [   ] @notification/dev-ionic3.20.1 (onsignal, kakao)
 [   ] @monetizer/dev-ionic3.20.1
 [ V ] @admob/dev-ionic3.20.1
+[   ] @facebook-ads/dev-ionic3.20.1
 [   ] @payment/dev-ionic3.20.1 (alipay, paypal, iap)
 [   ] @iab/dev-ionic3.20.1
   
@@ -26,6 +27,7 @@
 [   ] @notification/dev-ionic4.0 (onsignal, kakao)
 [   ] @monetizer/dev-ionic4.0
 [   ] @admob/dev-ionic4.0
+[   ] @facebook-ads/dev-ionic4.0
 [   ] @payment/dev-ionic4 (alipay, paypal, iap)
 [   ] @iap/dev-ionic4
   
@@ -37,6 +39,7 @@
 [   ] @notification/dev-tns1.0 (onsignal, kakao)
 [   ] @monetizer/dev-tns1.0
 [   ] @admob/dev-tns1.0
+[   ] @facebook-ads/dev-tns1.0
 [   ] @payment/dev-tns1.0 (alipay, paypal, iap)
 [   ] @iap/dev-tns1.0
   
@@ -48,6 +51,7 @@
 [   ] @notification/dev-flutter1.0 (onsignal, kakao)
 [   ] @monetizer/dev-flutter1.0
 [   ] @admob/dev-flutter1.0
+[   ] @facebook-ads/dev-flutter1.0
 [   ] @payment/dev-flutter1.0 (alipay, paypal, iap)
 [   ] @iap/dev-flutter1.0
   
@@ -59,6 +63,7 @@
   
 [   ] @monetizer/dev-weex1.0
 [   ] @admob/dev-weex1.0
+[   ] @facebook-ads/dev-weex1.0
 [   ] @payment/dev-weex1.0 (alipay, paypal, iap)
 [   ] @iap/dev-weex1.0
   
