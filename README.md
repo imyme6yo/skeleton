@@ -18,18 +18,18 @@
 [   ] @payment/dev-ionic3.20.1 (alipay, paypal, iap)
 [   ] @iab/dev-ionic3.20.1
   
-[   ] @instagram/dev-ionic4.0
-[   ] @pinterest/dev-ionic4.0
-[   ] @tinder/dev-ionic4.0
-[   ] @twitter/dev-ionic4.0
+[   ] @instagram/dev-ionic4.10.3
+[   ] @pinterest/dev-ionic4.10.3
+[   ] @tinder/dev-ionic4.10.3
+[   ] @twitter/dev-ionic4.10.3
   
-[   ] @firebase/dev-ionic4.0
-[   ] @notification/dev-ionic4.0 (onsignal, kakao)
-[   ] @monetizer/dev-ionic4.0
-[   ] @admob/dev-ionic4.0
-[   ] @facebook-ads/dev-ionic4.0
-[   ] @payment/dev-ionic4 (alipay, paypal, iap)
-[   ] @iap/dev-ionic4
+[   ] @firebase/dev-ionic4.10.3
+[   ] @notification/dev-ionic4.10.3 (onsignal, kakao)
+[   ] @monetizer/dev-ionic4.10.3
+[   ] @admob/dev-ionic4.10.3
+[   ] @facebook-ads/dev-ionic4.10.3
+[   ] @payment/dev-ionic10.3 (alipay, paypal, iap)
+[   ] @iap/dev-ionic4.10.3
   
 [   ] @instagram/dev-tns1.0
 [   ] @pinterest/dev-tns1.0
